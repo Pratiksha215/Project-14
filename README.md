@@ -3,7 +3,7 @@
 ## Concepts and skills gained
 
 
-    -   Since this project is heavily based on positioning, learnt a lot about relative & absolute.
+    -   This project uses positioning, learnt a lot about relative & absolute.
     -   **text-stroke-width** to create outline text effect.
     -   To create stepper using list item & div (By using relative & absolute)
 
